@@ -1,0 +1,25 @@
+/* CSS HEX */
+$dark-cyan: #579999ff;
+$alabaster-grey: #d4d8d7ff;
+$seafoam: #a5bebdff;
+$muted-teal: #85b1b1ff;
+$dark-cyan-2: #488482ff;
+$midnight_green: #0f4a51ff;
+$stormy-teal: #066261ff;
+$dark-teal-2: #023237ff;
+$dark-teal-3: #02494eff;
+$dark-cyan-3: #208681ff;
+
+/* SCSS RGB */
+$dark-cyan: rgba(87, 153, 153, 1);
+$alabaster-grey: rgba(212, 216, 215, 1);
+$seafoam: rgba(165, 190, 189, 1);
+$muted-teal: rgba(133, 177, 177, 1);
+$dark-cyan-2: rgba(72, 132, 130, 1);
+$midnight_green: rgba(15, 74, 81, 1);
+$stormy-teal: rgba(6, 98, 97, 1);
+$dark-teal-2: rgba(2, 50, 55, 1);
+$dark-teal-3: rgba(2, 73, 78, 1);
+$dark-cyan-3: rgba(32, 134, 129, 1);
+
+https://coolors.co/579999-d4d8d7-a5bebd-85b1b1-488482-0f4a51-066261-023237-02494e-208681
