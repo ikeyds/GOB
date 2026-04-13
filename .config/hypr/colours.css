@@ -32,7 +32,7 @@ https://coolors.co/d4d8d7-a5bebd-208681-488482-0f4a51-3e3447-be462d-ba830f-37432
 
 /* SCSS HEX */
 $alabaster-grey: #d4d8d7ff;
-$ash-grey: #a5bebdff;
+$seafoam: #a5bebdff;
 $dark-cyan: #208681ff;
 $dark-cyan-2: #488482ff;
 $dark-teal: #0f4a51ff;
@@ -42,6 +42,10 @@ $tomato-jam: #be462dff;
 $dark-goldenrod: #ba830fff;
 $dark-spruce: #37432bff;
 $carbon-black: #222525ff;
+
+set up to color4 in kitty
+
+
 
 /* SCSS RGB */
 $alabaster-grey: rgba(212, 216, 215, 1);
