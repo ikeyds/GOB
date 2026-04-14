@@ -4,7 +4,7 @@ overall = {bg = "#222525" }
 # : Manager {{{
 
 [mgr]
-cwd = { fg = "#023237" }
+cwd = { fg = "#023237" } # didn't change this
 
 # Find
 find_keyword  = { fg = "#d8a657", bold = true, italic = true, underline = true }
@@ -45,7 +45,7 @@ normal_main = { fg = "#282828", bg = "#7daea3", bold = true }
 normal_alt  = { fg = "#7daea3", bg = "#32302f" }
 
 # Select mode
-select_main = { fg = "#282828", bg = "#89b482", bold = true }
+select_main = { fg = "#282828", bg = "#726081", bold = true }
 select_alt  = { fg = "#89b482", bg = "#32302f" }
 
 # Unset mode
@@ -76,7 +76,7 @@ progress_error  = { fg = "#d8a657", bg = "#ea6962" }
 # : Pick {{{
 
 [pick]
-border   = { fg = "#7daea3" }
+border   = { fg = "#7daea3" } #didn't change this
 active   = { fg = "#ff0000", bold = true }
 inactive = {}
 

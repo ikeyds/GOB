@@ -1,14 +1,14 @@
 /* CSS HEX */
-$dark-cyan: #579999ff;
-$alabaster-grey: #d4d8d7ff;
-$seafoam: #a5bebdff;
-$muted-teal: #85b1b1ff;
-$dark-cyan-2: #488482ff;
-$midnight_green: #0f4a51ff;
-$stormy-teal: #066261ff;
-$dark-teal-2: #023237ff;
-$dark-teal-3: #02494eff;
-$dark-cyan-3: #208681ff;
+$dark-cyan: #579999;
+$alabaster-grey: #d4d8d7;
+$seafoam: #a5bebd;
+$muted-teal: #85b1b1;
+$dark-cyan-2: #488482;
+$midnight_green: #0f4a51;
+$stormy-teal: #066261;
+$dark-teal-2: #023237;
+$dark-teal-3: #02494e;
+$dark-cyan-3: #208681;
 
 /* SCSS RGB */
 $dark-cyan: rgba(87, 153, 153, 1);
@@ -31,20 +31,17 @@ https://coolors.co/579999-d4d8d7-a5bebd-85b1b1-488482-0f4a51-066261-023237-02494
 https://coolors.co/d4d8d7-a5bebd-208681-488482-0f4a51-3e3447-be462d-ba830f-37432b-222525
 
 /* SCSS HEX */
-$alabaster-grey: #d4d8d7ff;
-$seafoam: #a5bebdff;
-$dark-cyan: #208681ff;
-$dark-cyan-2: #488482ff;
-$dark-teal: #0f4a51ff;
-$vintage-grape: #3e3447ff;
-$light-grape: #584a64ff;
-$tomato-jam: #be462dff;
-$dark-goldenrod: #ba830fff;
-$dark-spruce: #37432bff;
-$carbon-black: #222525ff;
-
-set up to color4 in kitty
-
+$alabaster-grey: #d4d8d7;
+$seafoam: #a5bebd;
+$dark-cyan: #208681;
+$dark-cyan-2: #488482;
+$dark-teal: #0f4a51;
+$vintage-grape: #3e3447;
+$light-grape: #584a64;
+$tomato-jam: #be462d;
+$dark-goldenrod: #ba830f;
+$dark-spruce: #37432b;
+$carbon-black: #222525;
 
 
 /* SCSS RGB */
