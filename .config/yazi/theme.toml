@@ -41,14 +41,14 @@ inactive = { fg = "#7daea3", bg = "#32302f" }
 
 [mode]
 
-normal_main = { fg = "#282828", bg = "#7daea3", bold = true }
-normal_alt  = { fg = "#7daea3", bg = "#32302f" }
+normal_main = { fg = "#282828", bg = "#488482", bold = true }
+normal_alt  = { fg = "#488482", bg = "#32302f" }
 
 # Select mode
 select_main = { fg = "#282828", bg = "#726081", bold = true }
 select_alt  = { fg = "#89b482", bg = "#32302f" }
 
-# Unset mode
+# Unset mode - I don't know what this does
 unset_main = { fg = "#282828", bg = "#ea6962", bold = true }
 unset_alt  = { fg = "#ea6962", bg = "#32302f" }
 
@@ -134,7 +134,7 @@ rules = [
 	# Virtual file system
 	{ mime = "vfs/{absent,stale}", fg = "#a89984" },
 	# Fallback
-	{ url = "*", fg = "#ba830f" },
+	{ url = "*", fg = "#a5bebd" },
 	{ url = "*/", fg = "#488482" },
 ]
 

@@ -66,8 +66,8 @@
     },
 
     "battery": {
+        "format-charging": "<span foreground=\"#57d551\">  {capacity}%</span>",
 	"format": "  {capacity}%",
-        "format-charging": "<span foreground=\"#57d551\"> </span> {capacity}%",
         "interval": 5,
         "states": {
             "warning": 20,

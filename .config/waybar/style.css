@@ -46,12 +46,15 @@ window#waybar {
     border-radius: 20px;
 }
 
+#battery.charging {
+    color: #222222;
+}
 #battery.critical {
-    color: #d80000;
+    color: #cf5035;
 }
 
 #battery.warning {
-    color: orange;
+    color: #e9a413;
 }
 
 #custom-shutdown:hover {
